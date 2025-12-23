@@ -257,7 +257,7 @@ Fornisce tutti 8 nomi prodotti, misure, capacità e materiali esatti.
     const completion = await openai.chat.completions.create({
       model: 'gpt-4.1-mini', 
       messages: messages,
-      max_tokens: 500,
+      max_tokens: 1000,
       temperature: 0.7,
     });
 
