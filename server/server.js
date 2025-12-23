@@ -525,6 +525,7 @@ CLIENT: ${userMsg}
 POOLYAI: ${aiReply}
 
 ---
+console.log('OPENAI_API_KEY' : proces.env.OPENAI_API_KEY? 'PRESENTE' : 'MANCANTE');
 Log completo disponibile in memory/aiMemory.json
     `.trim();
 
