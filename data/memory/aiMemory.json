@@ -457,6 +457,16 @@
           "role": "assistant",
           "content": "Ecco i dettagli esatti dei primi tre prodotti del catalogo Pooly’s Mood:\n\n1. **Art Wall**  \n   - Misure: 120 cm (L) x 40 cm (P) x 180 cm (A)  \n   - Capacità: fino a 24 bottiglie  \n   - Materiali: legno naturale e acciaio inox  \n\n2. **Vetrina Wall Bar**  \n   - Misure: 100 cm (L) x 45 cm (P) x 190 cm (A)  \n   - Capacità: fino a 30 bottiglie  \n   - Materiali: legno naturale e acciaio inox  \n\n3. **Scaffal / Saffal**  \n   - Misure: 80 cm (L) x 35 cm (P) x 170 cm (A)  \n   - Capacità: fino a 20 bottiglie  \n   - Materiali: legno naturale e acciaio inox  \n\nSe desideri informazioni su altri prodotti o ulteriori dettagli, fammi sapere!",
           "timestamp": "2025-12-22T15:05:37.428Z"
+        },
+        {
+          "role": "user",
+          "content": "ciao",
+          "timestamp": "2025-12-23T20:10:08.323Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Ciao! Come posso aiutarti oggi con il catalogo Pooly’s Mood?",
+          "timestamp": "2025-12-23T20:10:10.648Z"
         }
       ]
     }
